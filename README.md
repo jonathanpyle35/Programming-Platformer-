@@ -1,9 +1,14 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/jonathanpyle35/Programming-Platformer-/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub]https://github.com/jonathanpyle35/Space-Ranger/archive/master.zip to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+To play this game you have to use python v(3.4.4) and pygame v(3).  
+<img src="example_picture1.jpg">
+<img src="example_picture2.jpg">
 
+To play this game you use the right and left arrow keys and the Space Bar.  
+The objective is to reach the flag without dying from the various enemies.  
+The are also several breaks to make the game more difficult.  
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
