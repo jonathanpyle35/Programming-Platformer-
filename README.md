@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Space Ranger!
 
 You can use the [editor on GitHub]https://github.com/jonathanpyle35/Space-Ranger/archive/master.zip to maintain and preview the content for your website in Markdown files.
 
@@ -9,6 +9,9 @@ To play this game you have to use python v(3.4.4) and pygame v(3).
 To play this game you use the right and left arrow keys and the Space Bar.  
 The objective is to reach the flag without dying from the various enemies.  
 The are also several breaks to make the game more difficult.  
+The heart gives you a life.  
+The coins gives you points for each one.  
+The first aid gives you another heart.  
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
